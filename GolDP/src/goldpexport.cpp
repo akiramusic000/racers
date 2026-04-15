@@ -226,10 +226,10 @@ undefined4* GolDPExport::VTable0x38()
 }
 
 // STUB: GOLDP 0x100155e0
-void GolDPExport::VTable0x3c(undefined4* param_1)
+void GolDPExport::VTable0x3c(undefined4* p_unk0x00)
 {
-	if (param_1) {
-		// param_1->VTable0x10(1);
+	if (p_unk0x00) {
+		// p_unk0x00->VTable0x10(1);
 	}
 
 	// TODO
@@ -237,10 +237,10 @@ void GolDPExport::VTable0x3c(undefined4* param_1)
 }
 
 // STUB: GOLDP 0x10015600 FOLDED
-void GolDPExport::VTable0x40(undefined4* param_1)
+void GolDPExport::VTable0x40(undefined4* p_unk0x00)
 {
-	if (param_1) {
-		// param_1->VTable0x00(1);
+	if (p_unk0x00) {
+		// p_unk0x00->VTable0x00(1);
 	}
 
 	// TODO
@@ -248,10 +248,10 @@ void GolDPExport::VTable0x40(undefined4* param_1)
 }
 
 // STUB: GOLDP 0x10015600 FOLDED
-void GolDPExport::VTable0x44(undefined4* param_1)
+void GolDPExport::VTable0x44(undefined4* p_unk0x00)
 {
-	if (param_1) {
-		// param_1->VTable0x00(1);
+	if (p_unk0x00) {
+		// p_unk0x00->VTable0x00(1);
 	}
 
 	// TODO
@@ -259,10 +259,10 @@ void GolDPExport::VTable0x44(undefined4* param_1)
 }
 
 // STUB: GOLDP 0x10015620
-void GolDPExport::VTable0x48(undefined4* param_1)
+void GolDPExport::VTable0x48(undefined4* p_unk0x00)
 {
-	if (param_1) {
-		// param_1->VTable0x20(1);
+	if (p_unk0x00) {
+		// p_unk0x00->VTable0x20(1);
 	}
 
 	// TODO
@@ -270,10 +270,10 @@ void GolDPExport::VTable0x48(undefined4* param_1)
 }
 
 // STUB: GOLDP 0x10015600 FOLDED
-void GolDPExport::VTable0x4c(undefined4* param_1)
+void GolDPExport::VTable0x4c(undefined4* p_unk0x00)
 {
-	if (param_1) {
-		// param_1->VTable0x00(1);
+	if (p_unk0x00) {
+		// p_unk0x00->VTable0x00(1);
 	}
 
 	// TODO
@@ -281,10 +281,10 @@ void GolDPExport::VTable0x4c(undefined4* param_1)
 }
 
 // STUB: GOLDP 0x10015600 FOLDED
-void GolDPExport::VTable0x50(undefined4* param_1)
+void GolDPExport::VTable0x50(undefined4* p_unk0x00)
 {
-	if (param_1) {
-		// param_1->VTable0x00(1);
+	if (p_unk0x00) {
+		// p_unk0x00->VTable0x00(1);
 	}
 
 	// TODO
@@ -292,10 +292,10 @@ void GolDPExport::VTable0x50(undefined4* param_1)
 }
 
 // STUB: GOLDP 0x10015640
-void GolDPExport::VTable0x54(undefined4* param_1)
+void GolDPExport::VTable0x54(undefined4* p_unk0x00)
 {
-	if (param_1) {
-		// param_1->VTable0x08(1);
+	if (p_unk0x00) {
+		// p_unk0x00->VTable0x08(1);
 	}
 
 	// TODO
@@ -303,10 +303,10 @@ void GolDPExport::VTable0x54(undefined4* param_1)
 }
 
 // STUB: GOLDP 0x10015660
-void GolDPExport::VTable0x5c(undefined4* param_1)
+void GolDPExport::VTable0x5c(undefined4* p_unk0x00)
 {
-	if (param_1) {
-		// param_1->VTable0x14(1);
+	if (p_unk0x00) {
+		// p_unk0x00->VTable0x14(1);
 	}
 
 	// TODO
@@ -314,10 +314,10 @@ void GolDPExport::VTable0x5c(undefined4* param_1)
 }
 
 // STUB: GOLDP 0x10015680
-void GolDPExport::VTable0x60(undefined4* param_1)
+void GolDPExport::VTable0x60(undefined4* p_unk0x00)
 {
-	if (param_1) {
-		// param_1->VTable0x1c(1);
+	if (p_unk0x00) {
+		// p_unk0x00->VTable0x1c(1);
 	}
 
 	// TODO
@@ -325,10 +325,10 @@ void GolDPExport::VTable0x60(undefined4* param_1)
 }
 
 // FUNCTION: GOLDP 0x100156a0
-void GolDPExport::VTable0x64(undefined4* param_1)
+void GolDPExport::VTable0x64(undefined4* p_unk0x00)
 {
-	if (param_1) {
-		delete param_1;
+	if (p_unk0x00) {
+		delete p_unk0x00;
 	}
 }
 
@@ -339,10 +339,10 @@ void GolDPExport::VTable0x58(undefined4*)
 }
 
 // STUB: GOLDP 0x10015600 FOLDED
-void GolDPExport::VTable0x68(undefined4* param_1)
+void GolDPExport::VTable0x68(undefined4* p_unk0x00)
 {
-	if (param_1) {
-		// param_1->VTable0x00(1);
+	if (p_unk0x00) {
+		// p_unk0x00->VTable0x00(1);
 	}
 
 	// TODO
@@ -350,10 +350,10 @@ void GolDPExport::VTable0x68(undefined4* param_1)
 }
 
 // STUB: GOLDP 0x10015600 FOLDED
-void GolDPExport::VTable0x6c(undefined4* param_1)
+void GolDPExport::VTable0x6c(undefined4* p_unk0x00)
 {
-	if (param_1) {
-		// param_1->VTable0x00(1);
+	if (p_unk0x00) {
+		// p_unk0x00->VTable0x00(1);
 	}
 
 	// TODO
