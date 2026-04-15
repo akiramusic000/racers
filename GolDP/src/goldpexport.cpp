@@ -22,7 +22,7 @@ GolDrawState* GolDPExport::VTable0x04()
 	return &this->m_state;
 }
 
-// FUNCTION: GOLDP 0x100150a0
+// STUB: GOLDP 0x100150a0
 undefined4* GolDPExport::VTable0x08()
 {
 	try {
