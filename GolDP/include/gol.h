@@ -41,7 +41,7 @@ public:
 	virtual undefined4* VTable0x18() = 0;     // vtable+0x18
 	virtual undefined4* VTable0x1c() = 0;     // vtable+0x1c
 	virtual undefined4* VTable0x20() = 0;     // vtable+0x20
-	virtual undefined4 VTable0x24() = 0;      // vtable+0x24
+	virtual int VTable0x24() = 0;             // vtable+0x24
 	virtual undefined4* VTable0x28() = 0;     // vtable+0x28
 	virtual undefined4* VTable0x2c() = 0;     // vtable+0x2c
 	virtual undefined4* VTable0x30() = 0;     // vtable+0x30

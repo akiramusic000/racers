@@ -23,7 +23,7 @@ public:
 	undefined4* VTable0x18() override;     // vtable+0x18
 	undefined4* VTable0x1c() override;     // vtable+0x1c
 	undefined4* VTable0x20() override;     // vtable+0x20
-	undefined4 VTable0x24() override;      // vtable+0x24
+	int VTable0x24() override;             // vtable+0x24
 	undefined4* VTable0x28() override;     // vtable+0x28
 	undefined4* VTable0x2c() override;     // vtable+0x2c
 	undefined4* VTable0x30() override;     // vtable+0x30
